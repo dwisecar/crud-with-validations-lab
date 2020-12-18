@@ -20,7 +20,7 @@ Songs have the following attributes and limitations:
   - Must not be blank if `released` is `true`
   - Must be less than or equal to the current year
 - `artist_name`, a `string`
-  - Must not be blank
+  - Must not be blank 
 - `genre`, a `string`
 
 ## Requirements
